@@ -63,6 +63,6 @@ Release: [App Store 바로가기](https://apps.apple.com/kr/app/taskstock/id6477
 ### 5. 팀원 소개
 | Backend | Backend | Frontend | Frontend | Design |
 | --- | --- | --- | --- | --- | 
-| [민세원](https://github.com/givemethatsewon) | [안정근](https://github.com/ajroot5685) | [정환희](https://github.com/hwanheejung?tab=followers) | [장준석](https://github.com/junseok44) | 양지선 |
+| [민세원](https://github.com/givemethatsewon) | [안정근](https://github.com/ajroot5685) | [정환희](https://github.com/hwanheejung) | [장준석](https://github.com/junseok44) | 양지선 |
 
 
