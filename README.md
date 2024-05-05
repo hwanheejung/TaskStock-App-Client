@@ -5,7 +5,6 @@
 </div>
 <br><br>
 
-
 ### 1. Info
 개발 기간: 2023.11 ~ 2024.03   
 Release: [App Store 바로가기](https://apps.apple.com/kr/app/taskstock/id6477771648) | [Play Store 바로가기](https://play.google.com/store/apps/details?id=com.anonymous.TaskStock&pcampaignid=web_share)
